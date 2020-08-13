@@ -1,5 +1,5 @@
 ---
-title: Great Events + Conscience
+title: Great Events + Conscience xxx
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
